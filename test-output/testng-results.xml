@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-30T11:11:28Z" name="Default suite" finished-at="2022-07-30T11:15:42Z" duration-ms="254852">
+    <groups>
+    </groups>
+    <test started-at="2022-07-30T11:11:28Z" name="Default test" finished-at="2022-07-30T11:15:42Z" duration-ms="254852">
+      <class name="pcloudyHackathon.HackathonTestScenarios">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:41:28Z" name="startTest" finished-at="2022-07-30T16:41:28Z" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="StartDriver()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:41:28Z" name="StartDriver" finished-at="2022-07-30T16:42:07Z" duration-ms="39610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method signature="TC_Scenario001_ValidateDoubleTap()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:42:07Z" name="TC_Scenario001_ValidateDoubleTap" finished-at="2022-07-30T16:42:21Z" duration-ms="14210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Scenario001_ValidateDoubleTap -->
+        <test-method is-config="true" signature="stopDriver(org.testng.ITestResult)[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:42:21Z" name="stopDriver" finished-at="2022-07-30T16:42:23Z" duration-ms="1478" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_Scenario001_ValidateDoubleTap status=SUCCESS method=HackathonTestScenarios.TC_Scenario001_ValidateDoubleTap()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method is-config="true" signature="StartDriver()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:42:23Z" name="StartDriver" finished-at="2022-07-30T16:43:07Z" duration-ms="44189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method signature="TC_Scenario002_ToDrawGivenEmoji()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:43:07Z" name="TC_Scenario002_ToDrawGivenEmoji" finished-at="2022-07-30T16:43:29Z" duration-ms="22301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Scenario002_ToDrawGivenEmoji -->
+        <test-method is-config="true" signature="stopDriver(org.testng.ITestResult)[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:43:29Z" name="stopDriver" finished-at="2022-07-30T16:43:31Z" duration-ms="1680" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_Scenario002_ToDrawGivenEmoji status=SUCCESS method=HackathonTestScenarios.TC_Scenario002_ToDrawGivenEmoji()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method is-config="true" signature="StartDriver()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:43:31Z" name="StartDriver" finished-at="2022-07-30T16:44:08Z" duration-ms="37243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method signature="TC_Scenario003_ToVerifyDragAndDropUseCase()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:44:08Z" name="TC_Scenario003_ToVerifyDragAndDropUseCase" finished-at="2022-07-30T16:44:28Z" duration-ms="19240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Scenario003_ToVerifyDragAndDropUseCase -->
+        <test-method is-config="true" signature="stopDriver(org.testng.ITestResult)[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:44:28Z" name="stopDriver" finished-at="2022-07-30T16:44:38Z" duration-ms="10121" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_Scenario003_ToVerifyDragAndDropUseCase status=SUCCESS method=HackathonTestScenarios.TC_Scenario003_ToVerifyDragAndDropUseCase()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method is-config="true" signature="StartDriver()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:44:38Z" name="StartDriver" finished-at="2022-07-30T16:45:15Z" duration-ms="37072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method signature="TC_Scenario04_ValidateImageDiffAndTextCompare()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:45:15Z" name="TC_Scenario04_ValidateImageDiffAndTextCompare" finished-at="2022-07-30T16:45:40Z" duration-ms="25604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Scenario04_ValidateImageDiffAndTextCompare -->
+        <test-method is-config="true" signature="stopDriver(org.testng.ITestResult)[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:45:40Z" name="stopDriver" finished-at="2022-07-30T16:45:42Z" duration-ms="1769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_Scenario04_ValidateImageDiffAndTextCompare status=SUCCESS method=HackathonTestScenarios.TC_Scenario04_ValidateImageDiffAndTextCompare()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:pcloudyHackathon.HackathonTestScenarios@39d9314d]" started-at="2022-07-30T16:45:42Z" name="endTest" finished-at="2022-07-30T16:45:42Z" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- pcloudyHackathon.HackathonTestScenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
